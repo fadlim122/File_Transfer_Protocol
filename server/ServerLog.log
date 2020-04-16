@@ -1,0 +1,24 @@
+[Wed Nov 20 19:55:28 2019
+]	Server started
+[Wed Nov 20 19:55:31 2019
+]	Client 4613 has connected
+4613, has retrieved the list of files
+4613, dir_handler has completed
+[Wed Nov 20 19:55:36 2019
+]	4613, Directory changed successful
+[Wed Nov 20 19:55:36 2019
+]	4613, cd_handler has completed
+4613, has retrieved the list of files
+4613, dir_handler has completed
+[Wed Nov 20 19:55:52 2019
+]	4613 completed get_handler
+4613, has retrieved the list of files
+4613, dir_handler has completed
+[Wed Nov 20 19:55:59 2019
+]	4613 completed get_handler
+[Wed Nov 20 19:56:16 2019
+]	4613, Directory changed successful
+[Wed Nov 20 19:56:16 2019
+]	4613, cd_handler has completed
+4613, has retrieved the list of files
+4613, dir_handler has completed
